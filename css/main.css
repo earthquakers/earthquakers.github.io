@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* let images only occupy a certain space  and center them */
+img {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+#mainfooter {
+  margin-top: 16px;
+}
+
+.kyk-text-red{color:#da121a !important}.kyk-red{color:#fff !important;background-color:#da121a !important}
+.kyk-text-green{color:#078930 !important}.kyk-green{color:#fff !important;background-color:#078930 !important}
+.kyk-text-blue{color: #0f47af !important}.kyk-blue{color:#fff !important;background-color:#0f47af !important}
